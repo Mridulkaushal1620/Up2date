@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mridulkaushal1620/Up2date.git/static/css/main.dc4d6ff2.css",
+    "main.js": "/Mridulkaushal1620/Up2date.git/static/js/main.b31fcaa5.js",
+    "static/js/488.d01864fa.chunk.js": "/Mridulkaushal1620/Up2date.git/static/js/488.d01864fa.chunk.js",
+    "static/media/loding.gif": "/Mridulkaushal1620/Up2date.git/static/media/loding.6b259e742aec5265ae54.gif",
+    "index.html": "/Mridulkaushal1620/Up2date.git/index.html",
+    "main.dc4d6ff2.css.map": "/Mridulkaushal1620/Up2date.git/static/css/main.dc4d6ff2.css.map",
+    "main.b31fcaa5.js.map": "/Mridulkaushal1620/Up2date.git/static/js/main.b31fcaa5.js.map",
+    "488.d01864fa.chunk.js.map": "/Mridulkaushal1620/Up2date.git/static/js/488.d01864fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.b31fcaa5.js"
+  ]
+}
